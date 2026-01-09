@@ -24,32 +24,30 @@ Maç tarihi, rakip takım, skor ve diğer istatistikler sade bir arayüzle sunul
 
 <img width="1896" height="911" alt="image" src="https://github.com/user-attachments/assets/283b1b7b-5cdc-4295-b360-a7f0175409dd" />
 
+## 🛠️ Teknoloji Altyapısı
+
+### Frontend Stack
+- **React 19.2.0** - Component-based kullanıcı arayüzü geliştirme
+- **Vite 7.2.4** - Modern build tool, hızlı HMR (Hot Module Replacement)
+- **Vanilla CSS** - Custom styling ile modern ve responsive tasarım
+
+### API Entegrasyonu
+- **Football-Data.org API** - Gerçek zamanlı futbol verileri
+  - Ligler ve turnuva bilgileri
+  - Takım detayları
+  - Maç programı ve sonuçları
+
+### Geliştirme Araçları
+- **ESLint** - Kod kalitesi ve standartları
+- **React ESLint Plugins** - React best practices
+- **Environment Variables** - Güvenli API key yönetimi
+
 ## 🚀 Öne Çıkan Özellikler
 
-Adım adım kolay kullanım
+- Adım adım kolay kullanım
 
-Lig → Kulüp → Maç akışı
+- Lig → Kulüp → Maç akışı
 
-Temiz ve anlaşılır kullanıcı arayüzü
+- Temiz ve anlaşılır kullanıcı arayüzü
 
-Takım bazlı detaylı ve güncel maç bilgileri
-
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-<sub>*Bu proje, yapay zeka (AI) desteği ile geliştirilmiştir.*</sub>
+- Takım bazlı detaylı ve güncel maç bilgileri
