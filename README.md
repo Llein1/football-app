@@ -51,3 +51,5 @@ Maç tarihi, rakip takım, skor ve diğer istatistikler sade bir arayüzle sunul
 - Temiz ve anlaşılır kullanıcı arayüzü
 
 - Takım bazlı detaylı ve güncel maç bilgileri
+
+<sub>*Bu içerik AI desteği ile oluşturulmuştur.*</sub>
