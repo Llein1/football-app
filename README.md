@@ -52,4 +52,4 @@ Maç tarihi, rakip takım, skor ve diğer istatistikler sade bir arayüzle sunul
 
 - Takım bazlı detaylı ve güncel maç bilgileri
 
-<sub>*Bu içerik AI desteği ile oluşturulmuştur.*</sub>
+<sub>*Antigravity ile geliştirilmiştir.*</sub>
